@@ -48,7 +48,7 @@ const router = createBrowserRouter([
   },
 ], {
   // Root domain deployment for mycocopure.com
-  basename: "/"
+  basename: "/Cocopure"
 });
 
 export const AppRouter: React.FC = () => {
