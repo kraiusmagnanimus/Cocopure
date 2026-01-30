@@ -4,7 +4,7 @@ import react from '@vitejs/plugin-react'
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: 'https://kraiusmagnanimus.github.io/Cocopure/',  // Root domain deployment for mycocopure.com
+  base: '/',  // Root domain deployment for mycocopure.com
   build: {
     outDir: 'dist',
     assetsDir: 'assets',
