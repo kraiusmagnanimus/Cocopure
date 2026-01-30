@@ -1,0 +1,35 @@
+PRODUCT PAGE, COCONUT CHIP SECTION
+1.	Pls change the title “Coco Bites Collection” to “Our Coco Chips Collection”
+2.	Please change the text from “Crispy coconut chips with bold flavors, packed with MCTs and fiber” to “ COCOPURE Coconut Chips are made from real coconut meat”
+
+PICTURE
+3.	Pls remove all the buttons “popular”, “fresh” etc
+4.	Remove all the “Coco Bites” text and just leave the actual flavors “Cheese”, etc. pls make sure they fit on 1 line so that the text is all aligned. PLS SPELL OUT “Barbecue” (not BBQ)
+5.	For the Benefits of ALL flavors, pls put these in all of them (lightning bold icon)
+a.	High Dietary Fiber
+b.	Loaded with Good Fats (MCTs)
+c.	100% Real Coconut
+d.	Dried Not Fried
+e.	No Cholesterol
+f.	Gluten Free
+6.	Remove the price and “Buy now” buttons
+7.	Remove the “Cant Decide” Variety Pack section
+ABOUT US PAGE
+1.	Pls change the “Our Story” write up to this:
+We're a married couple who live for movement—and movies. Whether it's a morning badminton game or an evening gym session, we're always on the go. And when we're not? You’ll find us on the couch, deep into a Netflix binge.
+Like most active people, we used to rely on sugary sports drinks to fuel our workouts and mindlessly munch on potato chips, popcorn and corn chips during movie nights. It was fun—until it wasn’t.
+One night, after polishing off another bag of greasy snacks, we both looked at each other and said, “There has to be something better.”
+We searched every supermarket and health store we could find, hoping for snacks and drinks that actually felt good to consume—refreshing, clean, satisfying. But nothing quite hit the mark.
+So we took matters into our own hands.
+We created our own line of products—made to fuel active days and guilt-free nights. Everything we make is something we proudly consume ourselves, and now, we're sharing it with you.
+Because you shouldn’t have to choose between healthy and happy.
+2.	Pls change the title “From Tree to You” to “Real Life. Real Cravings. Real Change.”
+3.	 Please remove the “Our Mission” and “Our Value” sections
+CONTACT US PAGE
+1.	Please make this a bit more exciting/colorful/creative and engaging
+2.	For the Contact Fill in the Form, pls make it send to hellococopure@gmail.com when they click “send message”
+3.	Please add a phone number entry in the Fill in the Form contact form
+4.	Can you make the email icon, a hyperlink so it automatically goes to their email address?
+5.	For the Social Media, pls make them also clickable icons and they should point to the social media links I sent in the previous email
+That’s all for now!!! Thanks!
+
